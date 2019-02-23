@@ -1,3 +1,3 @@
-# Headline
+# Flexx translation work is going on.
 
-> An awesome project.
+[中文文档请点击此处](https://fangyangjz.github.io/Flexx_Document_Chinese/#/)
