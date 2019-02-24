@@ -20,10 +20,24 @@
       repo: 'https://github.com/FangyangJz/Flexx_Document_Chinese',
       loadSidebar: true,
       subMaxLevel: 3,
+      auto2top: true,
       coverpage: true,
       coverpage: ['/', '/zh-cn/'],
-      // mergeNavbar: true,
-      search: 'auto',
+      // search: 'auto',
+      mergeNavbar: true,
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      search: {
+            placeholder: {
+                '/': '搜索',
+                '/zh-cn/': '搜索',
+                '/en-us/': 'Type to search'
+            },
+            noData: {
+                '/': '找不到结果',
+                '/zh-cn/': '找不到结果',
+                '/en-us/': 'No Results'
+            }
+        },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
