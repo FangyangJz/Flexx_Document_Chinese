@@ -1,5 +1,5 @@
 ### Widgets
-如果你对Flexx感兴趣, 那么可能想做的第一件事情就是去创建一个 UI. 别急, 接下来就让我们看下它是如何工作的, 然后讨论下[组件 componets](), [事件 events]() 和 [响应 reactions]().
+如果你对Flexx感兴趣, 那么可能想做的第一件事情就是去创建一个 UI. 别急, 接下来就让我们看下它是如何工作的, 然后讨论下[组件 componets](/zh-cn/Guide/g2_Widgets_are_components), [事件 events](/zh-cn/Guide/g3_The_event_system) 和 [响应 reactions](/zh-cn/Guide/g4_Reactions).
 
 ### 你的第一个部件
 `Widget`类是其他 ui 类的基类, 本身作为抽象基类来使用.  通常是通过继承它来创建一个新的包含 ui 元素的部件.
