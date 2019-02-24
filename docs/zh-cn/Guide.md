@@ -205,7 +205,7 @@ Person(database, name=name, age=age)
 动作的异步性, 加上在处理响应过程中状态不会发生变化, 使得我们很容易对因果关系进行推理. 信息是单向流动的, 这个概念借鉴了现代框架, 如 React/Flux 和 Veux.
 
 <div align=center>
-<img src="/../_media/event.png">
+<img src="https://github.com/FangyangJz/Flexx_Document_Chinese/blob/master/docs/_media/event.png?raw=true">
 </div>
 
 有人可能会说, 信息流仍然是循环的, 因为有一个箭头从响应 (reactions) 指向动作 (actions), 这是正确的, 但是请注意, 从响应激活的动作不是直接执行的; 它们会被挂起, 只有在所有响应完成后才会被执行.
