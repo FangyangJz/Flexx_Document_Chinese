@@ -8,6 +8,8 @@
   * [PScript和模块范围](/zh-cn/Guide/g5_PScript_modules_and_scope)
   * [素材(assets)和数据(data)处理](/zh-cn/Guide/g6_Handling_assets_and_data)
   * [明智的可用模式(Sensible usage patterns)](/zh-cn\Guide\g7_Sensible_usage_patterns)
+  * [运行Flexx应用的方式](/zh-cn\Guide\g8_Ways_to_run_a_Flexx_app)
+  * [调试(Debugging)](/zh-cn\Guide\g9_Debugging)
 
 * [参考手册](zh-cn/Reference/)
   * [部件(Widget)](zh-cn/Reference/r1_Widgets_reference)
