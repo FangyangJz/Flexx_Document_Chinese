@@ -13,3 +13,9 @@ class Example(flx.Widget):
         flx.Button(text='foo')
         flx.Button(text='bar')
 ```
+
+
+
+`flexx.ui.create_element(type, props=None, *children)`
+
+`class flexx.ui.Widget(*init_args, **kwargs)`
